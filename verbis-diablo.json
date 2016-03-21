@@ -9,11 +9,11 @@
   "EdLockedBg" : "#151515",
   "EdCaret" : "#000000",
   "EdMarkers" : "#D65555",
-  "EdCurLineBg" : "#4E5656",
+  "EdCurLineBg" : "#080808",
   "EdIndentVLine" : "#A0A0A4",
   "EdUnprintFont" : "#353535",
   "EdUnprintBg" : "#242424",
-  "EdUnprintHexFont" : "#727272",
+  "EdUnprintHexFont" : "#7C7C7C",
   "EdMinimapBorder" : "#404040",
   "EdMinimapSelBg" : "#E6E6E6",
   "EdMicromapBg" : "#141414",
@@ -42,7 +42,7 @@
   "EdMarginFixed" : "#C0C0C0",
   "EdMarginCaret" : "#000000",
   "EdMarginUser" : "#FFFF70",
-  "EdBookmarkBg" : "#525252",
+  "EdBookmarkBg" : "#606060",
   "EdBookmarkIcon" : "#6F6F6F",
   "EdMarkedRangeBg" : "#261D3F",
   "TabBg" : "#303030",
@@ -365,7 +365,7 @@
   "Lex_LightBG1" : {
     "Type" : 1,
     "Styles" : "",
-    "CFont" : "#400000",
+    "CFont" : "#4C2727",
     "CBack" : "#FF8080",
     "CBorder" : "",
     "Border" : "0,0,0,0"
@@ -373,31 +373,31 @@
   "Lex_LightBG2" : {
     "Type" : 1,
     "Styles" : "",
-    "CFont" : "#402000",
-    "CBack" : "#FFFF00",
+    "CFont" : "#4B4C28",
+    "CBack" : "#FDFF87",
     "CBorder" : "",
     "Border" : "0,0,0,0"
   },
   "Lex_LightBG3" : {
     "Type" : 1,
     "Styles" : "",
-    "CFont" : "#103010",
-    "CBack" : "#40F040",
+    "CFont" : "#2D4C27",
+    "CBack" : "#90F780",
     "CBorder" : "",
     "Border" : "0,0,0,0"
   },
   "Lex_LightBG4" : {
     "Type" : 1,
     "Styles" : "",
-    "CFont" : "#000040",
-    "CBack" : "#8080F0",
+    "CFont" : "#28294C",
+    "CBack" : "#878BFF",
     "CBorder" : "",
     "Border" : "0,0,0,0"
   },
   "Lex_LightBG5" : {
     "Type" : 1,
     "Styles" : "",
-    "CFont" : "#101010",
+    "CFont" : "#4C4C4C",
     "CBack" : "#CCCCCC",
     "CBorder" : "",
     "Border" : "0,0,0,0"
