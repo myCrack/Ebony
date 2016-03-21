@@ -9,7 +9,7 @@
   "EdLockedBg" : "#151515",
   "EdCaret" : "#000000",
   "EdMarkers" : "#D65555",
-  "EdCurLineBg" : "#080808",
+  "EdCurLineBg" : "#0A0A0A",
   "EdIndentVLine" : "#A0A0A4",
   "EdUnprintFont" : "#353535",
   "EdUnprintBg" : "#242424",
@@ -32,6 +32,7 @@
   "EdFoldMarkBg" : "#242424",
   "EdGutterFont" : "#505050",
   "EdGutterBg" : "#202020",
+  "EdGutterCaretFont" : "#808080",
   "EdGutterCaretBg" : "#121212",
   "EdRulerFont" : "#555555",
   "EdRulerBg" : "#202020",
@@ -67,9 +68,10 @@
   "TreeSelBg" : "#525252",
   "TreeLines" : "#303030",
   "TreeSign" : "#BBBBBB",
-  "ListBg" : "#282828",
+  "ListBg" : "#101010",
   "ListSelBg" : "#484848",
   "ListFont" : "#858585",
+  "ListSelFont" : "#BBBBBB",
   "ListFontHotkey" : "#969940",
   "ListFontHilite" : "#00C0FF",
   "ListCompletePrefix" : "#39897F",
@@ -85,6 +87,9 @@
   "ButtonBorderPassive" : "#353535",
   "ButtonBorderOver" : "#505050",
   "ButtonBorderFocused" : "#808080",
+  "StatusFont" : "#999999",
+  "StatusBg" : "#303030",
+  "StatusLines" : "#161616",
   "StatusAltBg" : "#2A1E33",
   "SplitMain" : "#363636",
   "SplitGroups" : "#363636",
@@ -459,3 +464,4 @@
     "Border" : "0,0,0,0"
   }
 }
+
