@@ -1,8 +1,8 @@
 {
   "EdTextFont" : "#AFAFAF",
   "EdTextBg" : "#202020",
-  "EdSelFont" : "#002F5E",
-  "EdSelBg" : "#A8D3FF",
+  "EdSelFont" : "#00AEFF",
+  "EdSelBg" : "#005272",
   "EdDisableFont" : "#727272",
   "EdDisableBg" : "#151515",
   "EdLinks" : "#93C6FF",
